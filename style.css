@@ -20,7 +20,7 @@ ul.recipe-list {
 }
 
 li {
-  padding: 5px;
+  padding: 2px;
 }
 
 body {
@@ -40,4 +40,8 @@ img {
   margin: 16px auto;
   border: 1px dotted rgb(255, 212, 220);
   width: 300px;
+}
+
+.content {
+  margin: 10px;
 }
